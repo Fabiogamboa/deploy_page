@@ -1,13 +1,13 @@
 div {
-    border: 0px solid;
+    border: 2px solid;
 }
 
 #Principal{
-    background-color: beige;
+    background-color: rgb(159, 255, 242);
     width: 90%;
     margin: 0 auto;
     padding: 2%;
-    box-shadow: 4px 4px 4px rgb(218, 195, 184);
+    box-shadow: 4px 4px 4px rgb(255, 255, 255);
     position: relative;
     display: flex;
     flex-direction: column;
@@ -17,12 +17,12 @@ div {
 }
 
 .General{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 195, 195);
     margin: 1%;
 
 }
 #Cuerpo_config{
-    background-color: rgb(137, 200, 255);
+    background-color: rgb(135, 255, 79);
     display: flex;
     direction: row;
     justify-content: space-around;
@@ -31,7 +31,7 @@ div {
     overflow: hidden;
 }
 .contenedores{
-    background-color: rgb(142, 255, 90);
+    background-color: rgb(255, 255, 255);
     width: 45%;
 }
 #Encabezado{
