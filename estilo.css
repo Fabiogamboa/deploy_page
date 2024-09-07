@@ -1,0 +1,42 @@
+div {
+    border: 0px solid;
+}
+
+#Principal{
+    background-color: beige;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2%;
+    box-shadow: 4px 4px 4px rgb(94, 255, 0);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    height: 800px;
+    border-radius: 5%;
+}
+
+.General{
+    background-color: rgb(133, 255, 169);
+    margin: 1%;
+
+}
+#Cuerpo_config{
+    background-color: aliceblue;
+    display: flex;
+    direction: row;
+    justify-content: space-around;
+    height: 2000px;
+    padding: 20px;
+    overflow: hidden;
+}
+.contenedores{
+    background-color: rgb(161, 238, 248);
+    width: 45%;
+}
+#Encabezado{
+    height: 20%;
+}
+#Pie_de_pagina{
+    height: 20%;
+}
